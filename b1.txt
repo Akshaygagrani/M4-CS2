@@ -1,1 +1,1 @@
-This file is created for branch 1
+This file is conflicted for branch 1
